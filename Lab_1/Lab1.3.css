@@ -1,0 +1,39 @@
+/* Создание псевдокласса с цветом "чёрный"*/
+.t1 {
+	color: black;
+}
+
+/* Создание псевдокласса с цветом "синий" и сдвигом текста на 68 позиций вверх и 3 вправо*/
+.t2{
+	color: blue;
+	margin-top: -68pt;
+	margin-right: 3pt;
+}
+
+/* Присваивание всем тегам <H1> значений по умолчанию */
+H1{
+	text-align:center; /* Выравнивание по центру */
+	font-family: Arial;
+	font-size: 36pt;
+	font-weight: bold;
+}
+
+BODY{
+	background: silver;
+	text: black;
+	margin-top: 10pt; /* Отступ сверху на 10 позиций */
+	margin-left: 5em; /* Отступ слева на 5 букв "m" */
+	margin-right: 2em;/* Отступ справа на 2 буквы "m" */
+}
+
+P {
+	background: white; 
+ 	padding: 20px;		/* Отступ от границ фона */
+	line-height: 200%;	/* Межстрочный интервал в % высоты строки */
+	text-align: justify; 	/* Выравнивание по длине */
+	margin-top: -10pt;
+	margin-left: -20pt;
+	margin-right: 15pt;
+	text-indent: 2em;	/* Отступ для красной строки*/
+	border-right: 8px double blue; /* Двойная граница справа на 8 пикселей синего цвета */
+}
