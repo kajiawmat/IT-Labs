@@ -1,0 +1,44 @@
+.CONTINENT{
+	valign: middle;
+	text-align: center;
+}
+
+.COUNTRY{
+	valign: middle;
+	text-align: left;
+	font-weight: bold;
+}
+
+.AREA{
+	valign: middle;
+	text-align: right;
+}
+
+TABLE{
+	font-family: "Courier New";
+	font-size: 14pt;
+	margin: auto;
+	align: center;
+	width: 60%;
+}
+
+TH{
+	background: silver;
+	font-weight: bold;
+	valign: middle;
+	align: center;
+}
+
+BODY{
+	text: black;
+	margin-top: 20pt; 
+	margin-left: 5em; 
+	margin-right: 2em;
+}
+
+CAPTION {
+	text-align: center;
+	font-family: Arial;
+	font-size: 14pt;
+	font-style: italic;
+}
