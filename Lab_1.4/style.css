@@ -4,5 +4,4 @@ P{
 	font-weight: bold;
 	padding: 10 pt;
 	border: 8pt ridge silver;
-	onClick: Swap();
 }
