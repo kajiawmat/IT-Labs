@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<data>
+	<fakultet name="ИВТ">
+		<kurs value="1">
+			<gruppa name="ИП-116">
+				<stud name="Фадин В.М.">
+					<mark name="m1">0</mark>
+					<mark name="m2">0</mark>
+					<mark name="m3">0</mark>
+					<mark name="m4">0</mark>
+					<mark name="m5">0</mark>
+					<mark name="m6">0</mark>
+					<mark name="m7">0</mark>
+				</stud>
+				<predmeti>
+					<predmet>Метрология, Стандартизация и Сертификация</predmet>
+					<predmet>Объектно Ориентированное Программирование</predmet>
+					<predmet>Архитектура Вычислительных Систем</predmet>
+					<predmet>Теория Массового Обслуживания</predmet>
+					<predmet>Экономика</predmet>
+					<predmet>База Данных</predmet>
+					<predmet>Физическая Культура</predmet>
+				</predmeti>
+			</gruppa>
+		</kurs>
+		<kurs value="2">
+			<gruppa name="ИП-011">
+				<stud name="Деморчук Е.А.">
+					<mark name="m1">0</mark>
+					<mark name="m2">0</mark>
+					<mark name="m3">0</mark>
+					<mark name="m4">0</mark>
+					<mark name="m5">0</mark>
+					<mark name="m6">0</mark>
+					<mark name="m7">0</mark>
+				</stud>
+				<stud name="Шарнин И.А.">
+					<mark name="m1">0</mark>
+					<mark name="m2">0</mark>
+					<mark name="m3">0</mark>
+					<mark name="m4">0</mark>
+					<mark name="m5">0</mark>
+					<mark name="m6">0</mark>
+					<mark name="m7">0</mark>
+				</stud>
+
+				<predmeti>
+					<predmet>Метрология, Стандартизация и Сертификация</predmet>
+					<predmet>Объектно Ориентированное Программирование</predmet>
+					<predmet>Архитектура Вычислительных Систем</predmet>
+					<predmet>Теория Массового Обслуживания</predmet>
+					<predmet>Экономика</predmet>
+					<predmet>База Данных</predmet>
+					<predmet>Физическая Культура</predmet>
+				</predmeti>
+			</gruppa>
+			<gruppa name="ИП-012">
+				<stud name="Николаев А.Д.">
+					<mark name="m1">0</mark>
+					<mark name="m2">0</mark>
+					<mark name="m3">0</mark>
+					<mark name="m4">0</mark>
+					<mark name="m5">0</mark>
+					<mark name="m6">0</mark>
+					<mark name="m7">0</mark>
+				</stud>
+				<stud name="Дубинина Е.А.">
+					<mark name="m1">0</mark>
+					<mark name="m2">0</mark>
+					<mark name="m3">0</mark>
+					<mark name="m4">0</mark>
+					<mark name="m5">0</mark>
+					<mark name="m6">0</mark>
+					<mark name="m7">0</mark>
+				</stud>
+				<stud name="Шиян И.В.">
+					<mark name="m1">0</mark>
+					<mark name="m2">0</mark>
+					<mark name="m3">0</mark>
+					<mark name="m4">0</mark>
+					<mark name="m5">0</mark>
+					<mark name="m6">0</mark>
+					<mark name="m7">0</mark>
+				</stud>
+				<predmeti>
+					<predmet>Метрология, Стандартизация и Сертификация</predmet>
+					<predmet>Объектно Ориентированное Программирование</predmet>
+					<predmet>Архитектура Вычислительных Систем</predmet>
+					<predmet>Теория Массового Обслуживания</predmet>
+					<predmet>Экономика</predmet>
+					<predmet>База Данных</predmet>
+					<predmet>Физическая Культура</predmet>
+				</predmeti>
+			</gruppa>
+			<gruppa name="ИП-014">
+				<stud name="Обухов А.И.">
+					<mark name="m1">0</mark>
+					<mark name="m2">0</mark>
+					<mark name="m3">0</mark>
+					<mark name="m4">0</mark>
+					<mark name="m5">0</mark>
+					<mark name="m6">0</mark>
+					<mark name="m7">0</mark>
+				</stud>
+				<predmeti>
+					<predmet>Метрология, Стандартизация и Сертификация</predmet>
+					<predmet>Объектно Ориентированное Программирование</predmet>
+					<predmet>Архитектура Вычислительных Систем</predmet>
+					<predmet>Теория Массового Обслуживания</predmet>
+					<predmet>Экономика</predmet>
+					<predmet>База Данных</predmet>
+					<predmet>Физическая Культура</predmet>
+				</predmeti>
+			</gruppa>
+		</kurs>
+		<kurs value="3">
+			<gruppa name="ИП-912">
+				<stud name="Фадин В.М.">
+					<mark name="m1">0</mark>
+					<mark name="m2">0</mark>
+					<mark name="m3">0</mark>
+					<mark name="m4">0</mark>
+					<mark name="m5">0</mark>
+					<mark name="m6">0</mark>
+					<mark name="m7">0</mark>
+				</stud>
+				<predmeti>
+					<predmet>Метрология, Стандартизация и Сертификация</predmet>
+					<predmet>Объектно Ориентированное Программирование</predmet>
+					<predmet>Архитектура Вычислительных Систем</predmet>
+					<predmet>Теория Массового Обслуживания</predmet>
+					<predmet>Экономика</predmet>
+					<predmet>База Данных</predmet>
+					<predmet>Физическая Культура</predmet>
+				</predmeti>
+			</gruppa>
+		</kurs>
+	</fakultet>
+
+	<fakultet name="АЭС">
+		<kurs value="2">
+			<gruppa name="АБ-017">
+				<stud name="Иванов И.И.">
+					<mark name="m1">0</mark>
+					<mark name="m2">0</mark>
+					<mark name="m3">0</mark>
+					<mark name="m4">0</mark>
+					<mark name="m5">0</mark>
+					<mark name="m6">0</mark>
+					<mark name="m7">0</mark>
+				</stud>
+				<predmeti>
+					<predmet>Метрология, Стандартизация и Сертификация</predmet>
+					<predmet>Объектно Ориентированное Программирование</predmet>
+					<predmet>Архитектура Вычислительных Систем</predmet>
+					<predmet>Теория Массового Обслуживания</predmet>
+					<predmet>Экономика</predmet>
+					<predmet>База Данных</predmet>
+					<predmet>Физическая Культура</predmet>
+				</predmeti>
+			</gruppa>
+		</kurs>
+	</fakultet>
+
+	<fakultet name="МТС">
+		<kurs value="4">
+			<gruppa name="МО-86">
+				<stud name="Ступникова А.А.">
+					<mark name="m1">0</mark>
+					<mark name="m2">0</mark>
+					<mark name="m3">0</mark>
+					<mark name="m4">0</mark>
+					<mark name="m5">0</mark>
+					<mark name="m6">0</mark>
+					<mark name="m7">0</mark>
+				</stud>
+				<predmeti>
+					<predmet>Метрология, Стандартизация и Сертификация</predmet>
+					<predmet>Объектно Ориентированное Программирование</predmet>
+					<predmet>Архитектура Вычислительных Систем</predmet>
+					<predmet>Теория Массового Обслуживания</predmet>
+					<predmet>Экономика</predmet>
+					<predmet>База Данных</predmet>
+					<predmet>Физическая Культура</predmet>
+				</predmeti>
+			</gruppa>
+		</kurs>
+	</fakultet>
+
+	<fakultet name="МРМ">
+		<kurs value="4">
+			<gruppa name="РИ-88">
+				<stud name="Милюкина Е.В.">
+					<mark name="m1">0</mark>
+					<mark name="m2">0</mark>
+					<mark name="m3">0</mark>
+					<mark name="m4">0</mark>
+					<mark name="m5">0</mark>
+					<mark name="m6">0</mark>
+					<mark name="m7">0</mark>
+				</stud>
+				<stud name="Каймульдинов Ж.В.">
+					<mark name="m1">0</mark>
+					<mark name="m2">0</mark>
+					<mark name="m3">0</mark>
+					<mark name="m4">0</mark>
+					<mark name="m5">0</mark>
+					<mark name="m6">0</mark>
+					<mark name="m7">0</mark>
+				</stud>
+				<predmeti>
+					<predmet>Метрология, Стандартизация и Сертификация</predmet>
+					<predmet>Объектно Ориентированное Программирование</predmet>
+					<predmet>Архитектура Вычислительных Систем</predmet>
+					<predmet>Теория Массового Обслуживания</predmet>
+					<predmet>Экономика</predmet>
+					<predmet>База Данных</predmet>
+					<predmet>Физическая Культура</predmet>
+				</predmeti>
+			</gruppa>
+			<gruppa name="РИ-88">
+				<stud name="Полякова А.О.">
+					<mark name="m1">0</mark>
+					<mark name="m2">0</mark>
+					<mark name="m3">0</mark>
+					<mark name="m4">0</mark>
+					<mark name="m5">0</mark>
+					<mark name="m6">0</mark>
+					<mark name="m7">0</mark>
+				</stud>
+				<stud name="Милюкина В.А">
+					<mark name="m1">0</mark>
+					<mark name="m2">0</mark>
+					<mark name="m3">0</mark>
+					<mark name="m4">0</mark>
+					<mark name="m5">0</mark>
+					<mark name="m6">0</mark>
+					<mark name="m7">0</mark>
+				</stud>
+				<predmeti>
+					<predmet>Метрология, Стандартизация и Сертификация</predmet>
+					<predmet>Объектно Ориентированное Программирование</predmet>
+					<predmet>Архитектура Вычислительных Систем</predmet>
+					<predmet>Теория Массового Обслуживания</predmet>
+					<predmet>Экономика</predmet>
+					<predmet>База Данных</predmet>
+					<predmet>Физическая Культура</predmet>
+				</predmeti>
+			</gruppa>
+			<gruppa name="РС-81">
+				<stud name="Михайлов Д.А.">
+					<mark name="m1">0</mark>
+					<mark name="m2">0</mark>
+					<mark name="m3">0</mark>
+					<mark name="m4">0</mark>
+					<mark name="m5">0</mark>
+					<mark name="m6">0</mark>
+					<mark name="m7">0</mark>
+				</stud>
+				<predmeti>
+					<predmet>Метрология, Стандартизация и Сертификация</predmet>
+					<predmet>Объектно Ориентированное Программирование</predmet>
+					<predmet>Архитектура Вычислительных Систем</predmet>
+					<predmet>Теория Массового Обслуживания</predmet>
+					<predmet>Экономика</predmet>
+					<predmet>База Данных</predmet>
+					<predmet>Физическая Культура</predmet>
+				</predmeti>
+			</gruppa>
+		</kurs>
+	</fakultet>
+
+	<fakultet name="ГФ">
+		<kurs value="2">
+			<gruppa name="ГР-10">
+				<stud name="Иванов И.И.">
+					<mark name="m1">0</mark>
+					<mark name="m2">0</mark>
+					<mark name="m3">0</mark>
+					<mark name="m4">0</mark>
+					<mark name="m5">0</mark>
+					<mark name="m6">0</mark>
+					<mark name="m7">0</mark>
+				</stud>
+				<predmeti>
+					<predmet>Метрология, Стандартизация и Сертификация</predmet>
+					<predmet>Объектно Ориентированное Программирование</predmet>
+					<predmet>Архитектура Вычислительных Систем</predmet>
+					<predmet>Теория Массового Обслуживания</predmet>
+					<predmet>Экономика</predmet>
+					<predmet>База Данных</predmet>
+					<predmet>Физическая Культура</predmet>
+				</predmeti>
+			</gruppa>
+		</kurs>
+	</fakultet>
+</data>

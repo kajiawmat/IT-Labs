@@ -1,0 +1,21 @@
+<HTML>
+<HEAD>
+	<TITLE> Лабораторная работа №3.2 </TITLE>
+	<script type="text/javascript" src="script.js"></script>
+	<style>
+		.bg
+		{
+			background: red;
+		}
+	</style>
+</HEAD>
+
+<BODY>
+	<br>Введите ваше имя: 
+	<FORM>
+		<INPUT ID="user" TYPE=TEXTBOX VALUE=""><br><br>
+		<INPUT TYPE="button" VALUE="Зарегистрироваться" OnClick="SetCookie('username',document.getElementById('user').value,2021,10,27);alert('Куки сохранены, '+document.getElementById('user').value)">
+		<INPUT TYPE="button" VALUE="Обнулить посещения" OnClick="SetCookie('return',0,2021,10,27);alert('Посещения обнулены')">
+	</FORM>
+</BODY>
+</HTML>
